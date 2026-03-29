@@ -70,3 +70,15 @@ Research Interests: Network Science, Data Mining, Computational Social Science
 ## License
 
 MIT License - See LICENSE file for details
+
+## Quick Start
+
+```bash
+# Clone the repository
+git clone https://github.com/SONGMENGJIAO/urban-innovation-network-analysis.git
+
+# Install dependencies
+pip install networkx pandas numpy matplotlib
+
+# Run example
+python network_construction.py
