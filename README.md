@@ -52,3 +52,21 @@ metrics = calculate_centrality_metrics(G)
 # Analyze results
 print(f"Network density: {nx.density(G)}")
 print(f"Average clustering: {nx.average_clustering(G)}")
+
+## Research Output
+
+- **Conference**: 8th Annual Conference on Energy and Resource Systems 
+  Engineering (Wuhan, Nov 2024) - Excellent Paper Award
+- **Thesis**: "Spatial Spillover Effects of Urban Technological Innovation 
+  Networks on Industrial Chain Resilience" (Expected June 2026)
+
+## Author
+
+**Mengjiao Song**  
+Master's Candidate in Economics, Xinjiang University  
+Email: 17863778569@163.com  
+Research Interests: Network Science, Data Mining, Computational Social Science
+
+## License
+
+MIT License - See LICENSE file for details
